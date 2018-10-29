@@ -15,6 +15,24 @@
 ![9](https://user-images.githubusercontent.com/33712754/46870972-18575800-ce6b-11e8-86bf-62138804bce7.PNG)
 
 
+
+소요부품리스트
+먼지센서(GP2Y1010AU0F) : http://www.devicemart.co.kr/1111977
+LED 택트 스위치 : http://www.devicemart.co.kr/1312325
+ESV-100G 환풍기 : http://itempage3.auction.co.kr/DetailView.aspx...
+5V 1채널 릴레이 모듈 : http://www.devicemart.co.kr/1383622
+차량용 에어컨 필터 - PM2.5초미세먼지필터 (쌍용-티볼리) : http://itempage3.auction.co.kr/DetailView.aspx...
+하네스 케이블 커넥터 6핀 [NW3-CCA-043] : https://www.devicemart.co.kr/1322584 
+150Ω저항 2개
+http://www.devicemart.co.kr/38585
+330Ω저항 5개
+http://www.devicemart.co.kr/1005
+220uF 캐패시터
+http://www.devicemart.co.kr/1330758
+백색 LED 4개
+http://www.devicemart.co.kr/193
+
+
 관련링크
 
 
