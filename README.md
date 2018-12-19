@@ -2,6 +2,25 @@
 임베디드 시스템 프로젝트 - SmartAirPurifier
 
 
+### 프로젝트 보고서   
+![1](https://user-images.githubusercontent.com/33712754/50219780-9556fe80-03d3-11e9-83e6-f46263717b5b.PNG)   
+![2](https://user-images.githubusercontent.com/33712754/50219762-92f4a480-03d3-11e9-8bf8-4afce247a92a.PNG)   
+![3](https://user-images.githubusercontent.com/33712754/50219764-92f4a480-03d3-11e9-9561-bbd15e66b471.PNG)   
+![4](https://user-images.githubusercontent.com/33712754/50219765-938d3b00-03d3-11e9-8fa6-7a114f0a9d40.PNG)   
+![5](https://user-images.githubusercontent.com/33712754/50219766-938d3b00-03d3-11e9-84b2-845fe495e73a.PNG)   
+![6](https://user-images.githubusercontent.com/33712754/50219767-938d3b00-03d3-11e9-930a-630424c09071.PNG)   
+![7](https://user-images.githubusercontent.com/33712754/50219769-9425d180-03d3-11e9-8cd5-0c2c7979dbdc.PNG)   
+![8](https://user-images.githubusercontent.com/33712754/50219770-9425d180-03d3-11e9-8925-889ef91a609d.PNG)   
+![9](https://user-images.githubusercontent.com/33712754/50219771-9425d180-03d3-11e9-8152-3e0e5e9d10ef.PNG)   
+![10](https://user-images.githubusercontent.com/33712754/50219774-9425d180-03d3-11e9-9909-9c97ec77674d.PNG)   
+![11](https://user-images.githubusercontent.com/33712754/50219775-94be6800-03d3-11e9-9e8f-c1e7f5205428.PNG)   
+![12](https://user-images.githubusercontent.com/33712754/50219776-94be6800-03d3-11e9-99fb-eafc0d8ae55f.PNG)   
+![13](https://user-images.githubusercontent.com/33712754/50219777-94be6800-03d3-11e9-9a59-cdf5e76a347e.PNG)   
+![14](https://user-images.githubusercontent.com/33712754/50219778-9556fe80-03d3-11e9-9ae3-f55c4fa527fa.PNG)   
+
+
+
+
 ### 프로젝트 계획서 (초안)
 
 ![1](https://user-images.githubusercontent.com/33712754/46870959-12617700-ce6b-11e8-856d-8e9e5d78927c.PNG)
